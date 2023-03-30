@@ -11,3 +11,4 @@ RENCANA BELAJAR WPU
   ^ Argumentative
   ^ Discusion
 - Mapel Matematika
+  ^ Trigonometri
