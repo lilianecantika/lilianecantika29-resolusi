@@ -1,7 +1,8 @@
 RENCANA BELAJAR WPU
 - Mapel TJKT
   *PCC
-  *PIC,JARKOM
+  *PIC
+   ^JARKOM
 - Mapel Bhs Indonesia
   ^ Proposal
   ^ Karya ilmiah
