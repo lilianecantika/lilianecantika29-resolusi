@@ -7,8 +7,10 @@ RENCANA BELAJAR WPU
   ^ Proposal
   ^ Karya ilmiah
   ^ Cerpen
+  ^ Novel
 - Mapel Bhs Inggris
   ^ Argumentative
   ^ Discusion
 - Mapel Matematika
-  ^ Trigonometri
+  ^ Lingkaran
+
