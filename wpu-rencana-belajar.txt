@@ -13,4 +13,5 @@ RENCANA BELAJAR WPU
   ^ Discusion
 - Mapel Matematika
   ^ Lingkaran
+  ^ Polinomial
 
